@@ -19,6 +19,9 @@ My Portfolio showcasing my passion, skillset and projects!
 
 This project is my portfolio I created in order to showcase my industry skills, my passion for web developing and web designing, and my most recent projects I have created by myself or collaborative with my team
 
+<img width="1667" alt="Screen Shot 2022-12-08 at 6 35 08 PM" src="https://user-images.githubusercontent.com/47063822/206589203-dd9294c2-48a5-404d-bbee-d9c61c5df5bc.png">
+
+
 ## Installation
 
 git clone the repo by clicking the Code button on github and copying the repo link. 'git clone' and paste the link in your terminal, and 'cd' into the repo name. Once you are in the directory, use the 'code .' to open the project in your preferred editor.
