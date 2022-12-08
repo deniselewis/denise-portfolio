@@ -21,6 +21,9 @@ This project is my portfolio I created in order to showcase my industry skills, 
 
 <img width="1667" alt="Screen Shot 2022-12-08 at 6 35 08 PM" src="https://user-images.githubusercontent.com/47063822/206589203-dd9294c2-48a5-404d-bbee-d9c61c5df5bc.png">
 
+## Technologies
+
+HTML, CSS, Javascript
 
 ## Installation
 
